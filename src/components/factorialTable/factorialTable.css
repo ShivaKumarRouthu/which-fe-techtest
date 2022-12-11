@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  -webkit-box-pack: center;
+  justify-content: center;
+  list-style:none;
+}
